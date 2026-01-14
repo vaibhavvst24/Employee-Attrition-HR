@@ -116,5 +116,5 @@ Improve workforce stability
 
 # Flask Webpage 
 
-![Employee Attrition Form](screenshots/eap1.png)
-![Attrition Prediction Output](screenshots/eap2.png)
+![Employee Attrition Form](images/eap1.png)
+![Attrition Prediction Output](images/eap2.png)
